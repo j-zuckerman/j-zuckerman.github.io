@@ -74,11 +74,11 @@ p {
 }
 
 .fa-moon {
-  color: #f1c40f;
+  color: var(--accent-color);
 }
 
 .fa-sun {
-  color: #f39c12;
+  color: var(--accent-color);
 }
 
 .flex {
